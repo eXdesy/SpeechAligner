@@ -160,8 +160,8 @@ class System:
 
         print("\nWelcome to the Speech Aligner System!")
         while True:
-            duration = int(input("Enter recording duration (seconds) or \"exit\" to exit from system: "))
-            if duration == "exit":
+            duration = int(input("Enter recording duration (seconds) or \"0\" to exit from system: "))
+            if duration == "0":
                 break
 
             audio_path = AudioHandler.audio_record(duration)
