@@ -161,11 +161,10 @@ class System:
         print("\nWelcome to the Speech Aligner System!")
         while True:
             duration = int(input("Enter recording duration (seconds) or \"exit\" to exit from system: "))
-            audio_path = AudioHandler.audio_record(duration)
-
             if duration == "exit":
                 break
 
+            audio_path = AudioHandler.audio_record(duration)
             try:
                 transcribed_text = self.select_model(audio_path)
                 print(f"Transcribed text: {transcribed_text}")
@@ -197,7 +196,6 @@ class System:
         print("\nWelcome to the Speech Aligner System!")
         while True:
             test_sentence = input("Enter a error suggestion for correction or \"exit\" to exit from system: ").strip()
-
             if test_sentence == "exit":
                 break
 
