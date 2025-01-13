@@ -1,0 +1,214 @@
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa version
+  date: 2024-10-07 12:13:02.157901
+  exception: ''
+  execution_time: 0.45214033126831055
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa version
+  date: 2024-10-07 19:16:53.697708
+  exception: ''
+  execution_time: 0.5550737380981445
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa version
+  date: 2024-10-09 00:22:43.477000
+  exception: ''
+  execution_time: 0.4942002296447754
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download acoustic
+    english
+  date: 2024-10-09 00:25:21.522164
+  exception: ''
+  execution_time: 2.6255099773406982
+  exit_code: 1
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download dictionary
+    english_us_mfa
+  date: 2024-10-09 00:26:31.119088
+  exception: ''
+  execution_time: 2.0233898162841797
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download dictionary
+    spanish_spain_mfa
+  date: 2024-10-09 00:27:06.204518
+  exception: ''
+  execution_time: 1.6324725151062012
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download dictionary
+    russian_mfa
+  date: 2024-10-09 00:27:33.287259
+  exception: ''
+  execution_time: 2.572678804397583
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download acoustic
+    russian_mfa
+  date: 2024-10-09 00:27:43.577300
+  exception: ''
+  execution_time: 6.321364402770996
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download acoustic
+    spanish_mfa
+  date: 2024-10-09 00:28:09.241553
+  exception: ''
+  execution_time: 6.586936950683594
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download acoustic
+    english_mfa
+  date: 2024-10-09 00:28:43.293977
+  exception: ''
+  execution_time: 7.847245693206787
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/audio.wav mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip corpus/
+  date: 2024-10-09 00:39:34.444830
+  exception: ''
+  execution_time: 0.5167012214660645
+  exit_code: 2
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip aligned_output/
+  date: 2024-10-09 00:40:40.903735
+  exception: ''
+  execution_time: 58.9672532081604
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip aligned_output/
+  date: 2024-10-09 11:20:10.077020
+  exception: ''
+  execution_time: 6.503497123718262
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip aligned_output/
+  date: 2024-10-09 23:29:20.642370
+  exception: ''
+  execution_time: 0.5232315063476562
+  exit_code: 2
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip aligned_output/
+  date: 2024-10-09 23:34:07.000516
+  exception: ''
+  execution_time: 5.414759874343872
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip aligned_output/
+  date: 2024-10-09 23:38:06.182045
+  exception: ''
+  execution_time: 5.334287643432617
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/russian_mfa.dict
+    mfa_acoustic/russian_mfa.zip aligned_output/
+  date: 2024-10-10 00:22:22.736394
+  exception: ''
+  execution_time: 6.334025859832764
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/russian_mfa.dict
+    mfa_acoustic/russian_mfa.zip aligned_output/
+  date: 2024-10-10 00:28:39.749276
+  exception: ''
+  execution_time: 5.438032150268555
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/russian_mfa.dict
+    mfa_acoustic/russian_mfa.zip aligned_output/
+  date: 2024-10-10 00:31:03.447155
+  exception: ''
+  execution_time: 5.973970890045166
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/english_mfa.dict
+    mfa_acoustic/english_mfa.zip aligned_output/
+  date: 2024-10-10 00:44:14.346018
+  exception: ''
+  execution_time: 6.1361985206604
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download acoustic
+    english
+  date: 2024-10-10 00:47:45.164249
+  exception: ''
+  execution_time: 2.2891740798950195
+  exit_code: 1
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa model download acoustic
+    english_mfa
+  date: 2024-10-10 00:48:29.077469
+  exception: ''
+  execution_time: 0.5892395973205566
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/english_mfa.dict
+    mfa_acoustic/english_mfa.zip aligned_output/
+  date: 2024-10-10 00:48:47.423244
+  exception: ''
+  execution_time: 5.579161882400513
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align corpus/ mfa_dictionary/english_mfa.dict
+    mfa_acoustic/english_mfa.zip aligned_output/
+  date: 2024-10-10 13:42:29.048521
+  exception: ''
+  execution_time: 5.5717408657073975
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align --clean corpus/ mfa_dictionary/english_mfa.dict
+    mfa_acoustic/english_mfa.zip aligned_output/
+  date: 2024-10-10 13:50:16.824598
+  exception: ''
+  execution_time: 34.81515884399414
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align --clean corpus/ mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip aligned_output/
+  date: 2024-10-10 14:16:41.786378
+  exception: ''
+  execution_time: 41.03321027755737
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align --clean corpus/ mfa_dictionary/english_mfa.dict
+    mfa_acoustic/english_mfa.zip aligned_output/
+  date: 2024-10-10 14:19:58.671239
+  exception: ''
+  execution_time: 35.717631578445435
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align --clean corpus/ mfa_dictionary/english_mfa.dict
+    mfa_acoustic/english_mfa.zip aligned_output/
+  date: 2024-10-10 14:21:40.464741
+  exception: ''
+  execution_time: 36.10939812660217
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align --clean corpus/ mfa_dictionary/russian_mfa.dict
+    mfa_acoustic/russian_mfa.zip aligned_output/
+  date: 2024-10-10 14:25:41.837480
+  exception: ''
+  execution_time: 174.81840538978577
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align --clean corpus/ mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip aligned_output/
+  date: 2024-10-14 01:06:52.062269
+  exception: ''
+  execution_time: 44.95334577560425
+  exit_code: 0
+  version: 3.2.0
+- command: C:\Users\Admin\.conda\envs\aligner\Scripts\mfa align --clean corpus/ mfa_dictionary/spanish_mfa.dict
+    mfa_acoustic/spanish_mfa.zip aligned_output/
+  date: 2024-10-14 02:39:06.977434
+  exception: ''
+  execution_time: 43.045960426330566
+  exit_code: 0
+  version: 3.2.0
