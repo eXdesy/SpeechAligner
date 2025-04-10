@@ -1,3 +1,7 @@
+# © 2025 eXdesy — All rights reserved.
+# This code is for educational use only.
+# Do not reuse, copy, modify, or redistribute.
+
 import os
 import threading
 import warnings
