@@ -1,5 +1,7 @@
 UserFiles/
 
+test/
+
 MFA/
 
 *.pyc
